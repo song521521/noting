@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/demo/base",
+    "pages/demo/size",
+    "pages/demo/circle",
+    "pages/demo/round",
+    "pages/demo/bounce",
+    "pages/demo/style",
+    "pages/demo/angle",
+    "pages/demo/src"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "图片裁剪插件示例项目",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
